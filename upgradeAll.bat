@@ -1,6 +1,8 @@
 @echo off
 cd Update
 
+choco feature enable -n allowGlobalConfirmation
+											   
 call 1_Core.bat
 call 2_Internet.bat
 call 3_CommonApps.bat

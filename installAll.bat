@@ -1,6 +1,8 @@
 @echo off
 cd install
 
+choco feature enable -n allowGlobalConfirmation
+									   
 call 1_WindowsOptions.bat
 call 2_Core.bat
 call 3_Internet.bat
