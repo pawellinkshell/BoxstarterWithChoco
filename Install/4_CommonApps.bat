@@ -1,61 +1,64 @@
 @echo off
 
+echo.
 echo Start of --4_CommonApps.bat--
 echo.
 
-echo "1) Instal logitech unifying"
+echo "1) Install logitech unifying"
 choco install unifying
 
-echo "2) Instal logitech setpoint"
+echo "2) Install logitech setpoint"
 choco install setpoint
 
-echo "3) Instal vlc media player"
+echo "3) Install vlc media player"
 choco install vlc
 
-echo "4) Instal aimp"
+echo "4) Install aimp"
 choco install aimp
 
-echo "5) Instal ccleaner"
+echo "5) Install ccleaner"
 choco install ccleaner
 
-echo "6) Instal ccenhancer for CCleaner"
+echo "6) Install ccenhancer for CCleaner"
 choco install ccenhancer
 
-echo "7) Instal pdfcreator"
+echo "7) Install pdfcreator"
 choco install pdfcreator
 
-echo "8) Instal teamviewer"
+echo "8) Install teamviewer"
 choco install teamviewer
 
-echo "9) Instal paint.net"
+echo "9) Install paint.net"
 choco install paint.net
 
-echo "10) Instal gimp"
+echo "10) Install gimp"
 choco install gimp
 
-echo "11) Instal calibre"
+echo "11) Install calibre"
 choco install calibre
 
-echo "12) Instal foxitreader"
+echo "12) Install foxitreader"
 choco install foxitreader
 
-echo "13) Instal evernote"
+echo "13) Install evernote"
 choco install evernote
 
-echo "14) Instal f.lux"
+echo "14) Install f.lux"
 choco install f.lux
 
-echo "15) Instal openvpn"
+echo "15) Install openvpn"
 choco install openvpn
 
-echo "16) Instal lastpass"
+echo "16) Install lastpass"
 choco install lastpass
 
-echo "17) Instal screenpresso"
+echo "17) Install screenpresso"
 choco install screenpresso
 
-echo "18) Instal anki"
+echo "18) Install anki"
 choco install anki
 
+echo "19) Install launchy"
+choco install launchy
 echo End of --4_CommonApps.bat--
 echo.

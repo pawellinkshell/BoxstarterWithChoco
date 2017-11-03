@@ -1,5 +1,6 @@
 @echo off
 
+echo.
 echo Start of --3_CommonApps.bat--
 echo.
 
@@ -56,6 +57,9 @@ choco upgrade screenpresso
 
 echo "18) Upgrade anki"
 choco upgrade anki
+
+echo "19) Upgrade launchy"
+choco upgrade launchy
 
 echo End of --3_CommonApps.bat--
 echo.
