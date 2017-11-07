@@ -3,13 +3,13 @@
 echo Start of --10_BuildTools.bat--
 echo.
 
-echo "1) Instal maven"
+echo "1) Install maven"
 choco install maven
 
-echo "2) Instal ant"
+echo "2) Install ant"
 choco install ant
 
-echo "3) Instal gradle"
+echo "3) Install gradle"
 choco install gradle
 
 echo End of --10_BuildTools.bat--
