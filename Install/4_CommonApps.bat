@@ -28,7 +28,7 @@ choco install pdfcreator
 echo "8) Install teamviewer"
 choco install teamviewer
 
-echo "9) Install paint.net"
+echo "9) Install paint.net" 
 choco install paint.net
 
 echo "10) Install gimp"
@@ -58,7 +58,7 @@ choco install screenpresso
 echo "18) Install anki"
 choco install anki
 
-echo "19) Install launchy"
-choco install launchy
+echo "19) Install wox"
+choco install wox
 echo End of --4_CommonApps.bat--
 echo.

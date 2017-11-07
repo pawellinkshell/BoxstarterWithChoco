@@ -58,8 +58,8 @@ choco upgrade screenpresso
 echo "18) Upgrade anki"
 choco upgrade anki
 
-echo "19) Upgrade launchy"
-choco upgrade launchy
+echo "19) Upgrade wox"
+choco upgrade wox
 
 echo End of --3_CommonApps.bat--
 echo.
