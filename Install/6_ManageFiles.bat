@@ -24,5 +24,8 @@ choco install teracopy
 echo "7) Install veracrypt"
 choco install veracrypt
 
+echo "8) Install meld"
+choco install meld
+
 echo End of --6_ManageFiles.bat--
 echo.

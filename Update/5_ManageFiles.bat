@@ -24,5 +24,8 @@ choco upgrade  teracopy
 echo "7) Upgrade veracrypt"
 choco upgrade  veracrypt
 
+echo "8) Upgrade meld"
+choco upgrade meld
+
 echo End of --5_ManageFiles.bat--
 echo.
