@@ -6,7 +6,10 @@ echo.
 echo "1) Install git.install"
 choco install git.install
 
-echo "2) Install sourcetree"
+echo "2) Install gitextensions"
+choco install gitextensions
+
+echo "3) Install sourcetree"
 choco install sourcetree
 
 echo End of --7_SourceControl.bat--

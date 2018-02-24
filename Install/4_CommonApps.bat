@@ -60,5 +60,9 @@ choco install anki
 
 echo "19) Install wox"
 choco install wox
+
+echo "20) Install carnac"
+choco install carnac
+
 echo End of --4_CommonApps.bat--
 echo.

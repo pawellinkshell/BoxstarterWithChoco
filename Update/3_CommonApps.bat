@@ -61,5 +61,8 @@ choco upgrade anki
 echo "19) Upgrade wox"
 choco upgrade wox
 
+echo "20) Upgrade carnac"
+choco upgrade carnac
+
 echo End of --3_CommonApps.bat--
 echo.
