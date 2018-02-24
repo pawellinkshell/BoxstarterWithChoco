@@ -6,8 +6,8 @@ echo.
 echo "1) Upgrade cygwin"
 choco upgrade cygwin
 
-echo "2) Upgrade conemu"
-choco upgrade conemu
+echo "2) Upgrade cmder"
+choco upgrade cmder
 
 echo "3) Upgrade notepadplusplus.install"
 choco upgrade notepadplusplus.install

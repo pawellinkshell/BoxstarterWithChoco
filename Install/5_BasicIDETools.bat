@@ -6,8 +6,8 @@ echo.
 echo "1) Install cygwin"
 choco install cygwin
 
-echo "2) Install conemu"
-choco install conemu
+echo "2) Install cmder"
+choco install cmder
 
 echo "3) Install notepadplusplus.install"
 choco install notepadplusplus.install
