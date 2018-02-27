@@ -52,8 +52,8 @@ choco upgrade openvpn
 echo "16) Upgrade lastpass"
 choco upgrade lastpass
 
-echo "17) Upgrade screenpresso"
-choco upgrade screenpresso
+echo "17) Upgrade sharex"
+choco upgrade sharex
 
 echo "18) Upgrade anki"
 choco upgrade anki

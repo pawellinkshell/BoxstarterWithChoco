@@ -52,8 +52,8 @@ choco install openvpn
 echo "16) Install lastpass"
 choco install lastpass
 
-echo "17) Install screenpresso"
-choco install screenpresso
+echo "17) Install sharex"
+choco install sharex
 
 echo "18) Install anki"
 choco install anki
