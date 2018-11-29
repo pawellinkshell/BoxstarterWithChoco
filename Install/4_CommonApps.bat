@@ -64,5 +64,30 @@ choco install wox
 echo "20) Install carnac"
 choco install carnac
 
+echo "21) Install TCP View "
+choco install tcpview
+
+echo "22) Install Postman"
+choco install postman
+
+echo "23) Install Insomnia"
+choco install insomnia-rest-api-client
+
+echo "24) Install Charles"
+choco install charles4
+
+echo "25) Install Touch Cursor"
+echo "from: https://martin-stone.github.io/touchcursor/"
+
+echo "26) Install Zeal"
+choco install zeal
+
+echo "27) Install Ditto"
+choco install ditto
+
+echo "28) Install Media Player Classic"
+choco install mpc-hc 
+
+
 echo End of --4_CommonApps.bat--
 echo.

@@ -64,5 +64,29 @@ choco upgrade wox
 echo "20) Upgrade carnac"
 choco upgrade carnac
 
+echo "21) Upgrade TCP View "
+choco upgrade tcpview
+
+echo "22) Upgrade Postman"
+choco upgrade postman
+
+echo "23) Upgrade Insomnia"
+choco upgrade insomnia-rest-api-client
+
+echo "24) Upgrade Charles"
+choco upgrade charles4
+
+echo "25) Upgrade Touch Cursor"
+echo "from: https://martin-stone.github.io/touchcursor/"
+
+echo "26) Upgrade Zeal"
+choco upgrade zeal
+
+echo "27) Upgrade Ditto"
+choco upgrade ditto
+
+echo "28) Upgrade Media Player Classic"
+choco upgrade mpc-hc 
+
 echo End of --3_CommonApps.bat--
 echo.

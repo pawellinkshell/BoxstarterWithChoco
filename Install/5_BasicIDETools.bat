@@ -18,5 +18,8 @@ choco install sublimetext3
 echo "5) Install sublimetext3.packagecontrol"
 choco install sublimetext3.packagecontrol
 
+echo "6) Instal mark-text|
+https://github.com/marktext/marktext/blob/master/doc/i18n/pl.md#readme
+
 echo End of --5_BasicIDETools.bat--
 echo.
